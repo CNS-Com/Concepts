@@ -20,3 +20,10 @@
 - Retour aux pratiques manuelles
 - Stress et surcharge opérationnelle
 - Perte de contrôle au vu du nombre important de drifts
+
+## Visuel
+
+![Visuel des dangers avec les drifts](img/dangers.jpg)
+
+---
+>**Titouan-Joseph CICORELLA**
