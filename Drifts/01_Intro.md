@@ -25,5 +25,9 @@ En d'autres termes : votre infrastructure ne correspond plus à ce que vous avez
 
 L’infrastructure n’est pas dans l’état attendu !
 
+## Visuel
+
+![Visuel de l'intro des drifts](img/Intro.jpg)
+
 ---
-**Titouan-Joseph CICORELLA**
+>**Titouan-Joseph CICORELLA**
