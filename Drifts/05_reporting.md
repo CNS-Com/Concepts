@@ -15,3 +15,10 @@
 - Accumulation des drifts sans action corrective
 - Intervention humaine obligatoire
 - "Normalisation de la déviance
+
+## Visuel
+
+![Visuel du reporting des drifts](img/reporting.jpg)
+
+---
+>**Titouan-Joseph CICORELLA**
