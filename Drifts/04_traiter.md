@@ -28,3 +28,10 @@
 - Analyse de ce qui a causé le drift
 - Amélioration des processus
 - Communication avec les équipes si besoin pour informer de la bonne utilisation de l'automatisation
+
+## Visuel
+
+![Visuel de comment traiter les drifts](img/traiter.jpg)
+
+---
+>**Titouan-Joseph CICORELLA**
