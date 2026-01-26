@@ -7,6 +7,7 @@
 - [Comment détecter les drifts](Drifts/03_detection.md)
 - [Comment traiter les drifts](Drifts/04_traiter.md)
 - [Détection & reporting](Drifts/05_reporting.md)
+- [Approche Hybride entre enforcement et détection](Drifts/07_Approche-hypride.md)
 
 ## ROI
 
