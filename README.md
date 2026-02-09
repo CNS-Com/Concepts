@@ -1,5 +1,7 @@
 # Concepts
 
+Ce projet rassemble tous les articles Concepts Automatisations rédigé par notre equipe automatisation. Ces articles nous permettent de partager les idées clés sur l'automatisation des infrastructures réseaux.
+
 ## Les drifts
 
 - [Qu'est ce qu'un drift](Drifts/01_Intro.md)
@@ -12,3 +14,7 @@
 ## ROI
 
 - [ROI](ROI.md)
+
+## How VS What
+
+- [How VS What mettre en place une bonne stratégie d'automatisation](How_vs_What/01_Introduction.md)
