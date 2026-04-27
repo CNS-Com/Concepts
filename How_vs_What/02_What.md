@@ -6,34 +6,29 @@ Dans mon précédent post, nous avons parlé de l’importance de l’automatisa
 
 Étape 1 : Identifier les processus répétitifs et chronophages 
 
-  • Lister les tâches qui prennent du temps, sont sujettes à erreur ou n’apportent pas de valeur ajoutée. 
+- Lister les tâches qui prennent du temps, sont sujettes à erreur ou n’apportent pas de valeur ajoutée. 
 
 Étape 2 : Prioriser en fonction de l’impact et de l’éffort 
 
-  • Quelles tâches, si automatisées, libéreraient le plus de temps ou réduiraient les risques d’erreur ? 
-  • Combien de temps vais avoir besoin pour automatiser mes actions ? 
-  • Comment puis-je délivrer leurs besoins d’infrastructures le plus rapidement à mes clients ? 
+- Quelles tâches, si automatisées, libéreraient le plus de temps ou réduiraient les risques d’erreur ? 
+- Combien de temps vais avoir besoin pour automatiser mes actions ? 
+- Comment puis-je délivrer leurs besoins d’infrastructures le plus rapidement à mes clients ? 
 
 Étape 3 : Impliquer les équipes 
 
-  • Vos équipes techniques (Build & Run) savent mieux que quiconque où se situent les frictions. Leur feedback est essentiel pour cibler les bons processus. 
+- Vos équipes techniques (Build & Run) savent mieux que quiconque où se situent les frictions. Leur feedback est essentiel pour cibler les bons processus. 
 
 Étape 4 : Définir un cadrage clair pour chacun de vos use cases 
 
 Pour chaque processus identifié, préciser :  
 
-  • Le périmètre : Quelles est le service fonctionnel attendu ? Quelles infrastructures sont impactées ? Quels workflows de décision doivent être implémenté ? 
-  • L’impact sur votre infrastructure : Comment aller vous surveiller le résultat de vos modifications ? Comment s’assurer que votre service est toujours de bonne qualité ? 
-  • Les limites et contraintes : Gestion des erreurs, compatibilité avec les outils existants, Cas spécifiques que vous ne souhaitez pas traiter 
+- Le périmètre : Quelles est le service fonctionnel attendu ? Quelles infrastructures sont impactées ? Quels workflows de décision doivent être implémenté ? 
+- L’impact sur votre infrastructure : Comment aller vous surveiller le résultat de vos modifications ? Comment s’assurer que votre service est toujours de bonne qualité ? 
+- Les limites et contraintes : Gestion des erreurs, compatibilité avec les outils existants, Cas spécifiques que vous ne souhaitez pas traiter 
 
-𝗟𝗲𝘀 𝗽𝗶𝗲𝗴𝗲𝘀 𝗮 𝗲𝘃𝗶𝘁𝗲𝗿 
+## 𝗟𝗲𝘀 𝗽𝗶𝗲𝗴𝗲𝘀 𝗮 𝗲𝘃𝗶𝘁𝗲𝗿 
 
-  • Automatiser pour automatiser : Sans objectif précis, l’automatisation peut devenir un gouffre financier et temporel. 
-  • Négliger l’humain : L’automatisation doit servir les équipes, pas les remplacer sans réflexion. 
+- Automatiser pour automatiser : Sans objectif précis, l’automatisation peut devenir un gouffre financier et temporel. 
+- Négliger l’humain : L’automatisation doit servir les équipes, pas les remplacer sans réflexion. 
 
 Avant de vous lancer dans l’automatisation, prenez le temps de cartographier vos besoins. Le « What » est votre boussole, le « How » en est le véhicule. Et vous, comment définissez-vous vos priorités d’automatisation ? Partagez vos retours en commentaires !
-
-#LeNetDevOps #CNS #ConceptsAutom #Automatisation #TransformationDigitale #Stratégie #Innovation
-
-
-Retrouvez nos différents billets Concepts Automatisation sur https://lnkd.in/e5ivcM4
