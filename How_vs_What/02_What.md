@@ -32,3 +32,6 @@ Pour chaque processus identifié, préciser :
 - Négliger l’humain : L’automatisation doit servir les équipes, pas les remplacer sans réflexion. 
 
 Avant de vous lancer dans l’automatisation, prenez le temps de cartographier vos besoins. Le « What » est votre boussole, le « How » en est le véhicule. Et vous, comment définissez-vous vos priorités d’automatisation ? Partagez vos retours en commentaires !
+
+## Visuel
+![Visuel du What](img/How_Vs_What_2.png)
