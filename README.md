@@ -19,3 +19,9 @@ Ce projet rassemble tous les articles Concepts Automatisations rédigé par notr
 
 - [Mettre en place une bonne stratégie d'automatisation](How_vs_What/01_Introduction.md)
 - [Et si la clé de l’automatisation réussie était de bien définir le « Quoi » avant le « Comment » ?](How_vs_What/02_What.md)
+
+## MCO de l'automatisation
+
+- [Cas d'usages](MCO/01_mco_cas_usages.md) 
+- [Plateforme](MCO/02_mco_plateforme.md)  
+- [Conlusion](MCO/03_mco_conclusion.md)  
