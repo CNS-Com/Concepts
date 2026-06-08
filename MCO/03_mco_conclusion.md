@@ -6,9 +6,9 @@
 
 Mettre en place une plateforme et des cas d’usages d’automatisation réseau demande des ressources : temps, énergie, compétences et argent.
 
-Ces investissements ne seront pérennes que s'ils sont accompagnés :
-💸 d’autres investissements récurrents 
-🤓 d’une gestion sérieuse et organisée du cycle de vie
+Ces investissements ne seront pérennes que s'ils sont accompagnés :  
+💸 d’autres investissements récurrents  
+🤓 d’une gestion sérieuse et organisée du cycle de vie  
 
 **Prenons le parallèle du fermier** qui achète un tracteur pour ne plus labourer à la force de ses bras.
 

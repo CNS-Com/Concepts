@@ -4,8 +4,8 @@
 
 Dans une plateforme d’automatisation, on retrouve généralement :
 
-🔧 Des applications et outils : source d’intention, orchestrateur, moteur d’automatisation, dépôt de code, etc.
-🏗️ Une infrastructure sous-jacente : système, virtualisation, conteneurs, stockage, réseau, base de données, etc.
+🔧 Des applications et outils : source d’intention, orchestrateur, moteur d’automatisation, dépôt de code, etc.  
+🏗️ Une infrastructure sous-jacente : système, virtualisation, conteneurs, stockage, réseau, base de données, etc.  
 📝 De la documentation : design, administration, exploitation
 
 **Prenons un exemple : l'orchestrateur**
