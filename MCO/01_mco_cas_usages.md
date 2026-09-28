@@ -50,3 +50,6 @@ Les actions à réaliser dans le temps peuvent être catégorisées en **deux fa
 ## Visuel
 
 ![Visuel des cas d'usages](img/mco_cas_usages.png)
+
+---
+>**Guillaume MAULE**

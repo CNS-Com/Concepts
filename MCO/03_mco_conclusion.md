@@ -34,3 +34,6 @@ Ou ils en sous-estiment l'importance et la charge associée.
 ## Visuel
 
 ![Visuel de la conclusion](img/mco_conclusion.png)
+
+---
+>**Guillaume MAULE**
