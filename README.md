@@ -25,3 +25,9 @@ Ce projet rassemble tous les articles Concepts Automatisations rédigé par notr
 - [Cas d'usages](MCO/01_mco_cas_usages.md) 
 - [Plateforme](MCO/02_mco_plateforme.md)  
 - [Conlusion](MCO/03_mco_conclusion.md)  
+
+## Plateforme d'autmatisation
+- [L'état opérationnel](Plateforme/01_etat-operationnel.md)
+- [La source d'intention](Plateforme/02_source-intention.md)
+- [Le repository](Plateforme/03_repository.md)
+- [Le vault](Plateforme/04_vault.md)

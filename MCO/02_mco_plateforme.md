@@ -52,3 +52,6 @@ N’importe quelle application métier ou technique doit être maintenue pour fo
 ## Visuel
 
 ![Visuel de la plateforme](img/mco_plateforme.png)
+
+---
+>**Guillaume MAULE**

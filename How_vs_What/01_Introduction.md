@@ -29,4 +29,7 @@ Mettre en priorité un de ces facteurs peut mener à :
 - Un ROI décevant, voire un surcoût. 
 
 # Visuel
-TBD
+![Visuel de l'introduction](img/How_Vs_What_1.png)
+
+---
+>**Gautier LE FUR**
